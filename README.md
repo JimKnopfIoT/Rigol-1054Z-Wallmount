@@ -6,14 +6,17 @@ Requirements:
 * Filament of your choice
 
 ## View
-<img src="iso1.jpg" width="500" align="center"> 
-<img src="iso2.jpg" width="500" align="center"> 
-<img src="20190820-DSC03969.jpg" width="500" align="center"> 
-
+<p align="center"> 
+<img src="iso1.jpg" width="250"> 
+<img src="iso2.jpg" width="250"> 
+<img src="20190820-DSC03969.jpg" width="250"> 
+</p>
 # Added ladder-mount for Rigol 1054Z
 <img src="Iso1-Ladder-Mount.jpg" width="500" align="center"> 
 
 
 # Added BNC-connector-protective-cover
-<img src="Iso1-BNC-knob.jpg" width="500" align="center"> 
-<img src="Iso2-BNC-knob.jpg" width="500" align="center"> 
+<p align="center"> 
+<img src="Iso1-BNC-knob.jpg" width="250"> 
+<img src="Iso2-BNC-knob.jpg" width="250"> 
+</p>
