@@ -7,9 +7,9 @@ Requirements:
 
 ## View
 <p align="center"> 
-<img src="iso1.jpg" height="120"> 
-<img src="iso2.jpg" height="120"> 
-<img src="20190820-DSC03969.jpg" height="120"> 
+<img src="iso1.jpg" height="200"> 
+<img src="iso2.jpg" height="200"> 
+<img src="20190820-DSC03969.jpg" height="200"> 
 </p>
 # Added ladder-mount for Rigol 1054Z
 <img src="Iso1-Ladder-Mount.jpg" width="500" align="center"> 
